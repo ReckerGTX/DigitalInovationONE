@@ -1,0 +1,16 @@
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\bin\Debug\net6.0\PrimeiroProjetoCSharp.exe
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\bin\Debug\net6.0\PrimeiroProjetoCSharp.deps.json
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\bin\Debug\net6.0\PrimeiroProjetoCSharp.runtimeconfig.json
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\bin\Debug\net6.0\PrimeiroProjetoCSharp.dll
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\bin\Debug\net6.0\ref\PrimeiroProjetoCSharp.dll
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\bin\Debug\net6.0\PrimeiroProjetoCSharp.pdb
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.GlobalUsings.g.cs
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.csproj.AssemblyReference.cache
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.AssemblyInfoInputs.cache
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.AssemblyInfo.cs
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.dll
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\ref\PrimeiroProjetoCSharp.dll
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.pdb
+C:\Users\caiqu\Desktop\ProjetoC# Dio\PrimeiroProjetoCSharp\PrimeiroProjetoCSharp\obj\Debug\net6.0\PrimeiroProjetoCSharp.genruntimeconfig.cache
